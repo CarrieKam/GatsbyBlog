@@ -8,7 +8,7 @@ const IndexPage = () => {
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <StaticImage
         alt="klee"
-        src="https://thegaminggenie.com/wp-content/uploads/2021/08/Genshin-Impact-Klee.png"
+        src="../images/me_chibi.png"
       />
     </Layout>
   )
